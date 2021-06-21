@@ -1,8 +1,7 @@
-# GOOD
+# Read Me Generator
 
 ## Description
-
-JOB         
+Creates awesome Read ME's         
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents:
 * [Installation](#installation)
@@ -13,11 +12,11 @@ JOB
 * [Questions](#questions)
 
 ## Installation
-DUDE
+Npm i
 
 
 ## Usage
-REady
+alot
 
 ## License
 This project is licensed under the following: 
@@ -26,8 +25,13 @@ This project is licensed under the following:
 You can view this lincese at:
   * https://opensource.org/licenses/MIT
 
+## Tests
+no tests to be run
 
-## Questions 
+## Contributing 
+no contributions allowed
+
+## Questions? 
 [Github Profile](https://www.github.com/cocoder555)
 
 cocoder555@gmail.com

@@ -47,7 +47,17 @@ const questions = [{
      name:"email",
      message:"What is your email?",
 
-}
+},
+{
+    type:"input",
+    name:"contributing",
+    message:"What are the contribution guidelines for the user?",
+},
+{
+    type:"input",
+    name:"tests",
+    message:"What tests can the user run on the application?"
+},
 
 ];
 

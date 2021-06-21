@@ -45,7 +45,6 @@ let link = renderLicenseLink(data.license);
   return `# ${data.title}
 
 ## Description
-
 ${data.description}         
 ${badge}
 ## Table of Contents:
@@ -70,8 +69,13 @@ This project is licensed under the following:
 You can view this lincese at:
   * ${link}
 
+## Tests
+${data.tests}
 
-## Questions 
+## Contributing 
+${data.contributing}
+
+## Questions? 
 [Github Profile](https://www.github.com/${data.github})
 
 ${data.email}
