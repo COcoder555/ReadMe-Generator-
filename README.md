@@ -1,9 +1,9 @@
-# COOl
+# GOOD
 
 ## Description
 
-cool
-
+JOB         
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,16 +13,22 @@ cool
 * [Questions](#questions)
 
 ## Installation
-cool
+DUDE
 
 
 ## Usage
-coool
+REady
 
 ## License
 This project is licensed under the following: 
+* MIT
 
-  * BSD 3
+You can view this lincese at:
+  * https://opensource.org/licenses/MIT
 
 
+## Questions 
+[Github Profile](https://www.github.com/cocoder555)
+
+cocoder555@gmail.com
 

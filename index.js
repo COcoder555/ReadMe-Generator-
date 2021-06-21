@@ -23,7 +23,7 @@ const questions = [{
 {
     type:"input",
     name:"installation",
-    message:"What command should be run to install dependencies?"
+    message:"What command should be run to install dependencies?",
 
 },
 {
@@ -35,7 +35,18 @@ const questions = [{
     type:"list",
     name:"license",
     message: "What licenses should your project have?",
-    choices: ["MIT","GPL3.0","BSD 3","NONE"]
+    choices: ["MIT","Apache 2.0","BSD 3","NONE"]
+},
+{
+     type:"input",
+     name:"github",
+     message:"What is you git hub username?"
+},
+{
+     type:"input",
+     name:"email",
+     message:"What is your email?",
+
 }
 
 ];
