@@ -1,7 +1,7 @@
-# Read Me Generator
+# ReadME Generator
 
 ## Description
-Creates awesome Read ME's         
+Command Line application for generating ReadMe's         
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents:
 * [Installation](#installation)
@@ -12,11 +12,11 @@ Creates awesome Read ME's
 * [Questions](#questions)
 
 ## Installation
-Npm i
+npmi 
 
 
 ## Usage
-alot
+It will overwrite any current ReadME
 
 ## License
 This project is licensed under the following: 
@@ -26,10 +26,10 @@ You can view this lincese at:
   * https://opensource.org/licenses/MIT
 
 ## Tests
-no tests to be run
+no tests at this time
 
 ## Contributing 
-no contributions allowed
+no contributions at this time
 
 ## Questions? 
 [Github Profile](https://www.github.com/cocoder555)
