@@ -28,5 +28,5 @@ You can view this lincese at:
 
 
 
-[Walk Through](https://drive.google.com/file/d/1A6FEabUxTSNQQoyITnMKs5fHrWtLzBro/preview")
+[Walk Through Video](https://drive.google.com/file/d/1A6FEabUxTSNQQoyITnMKs5fHrWtLzBro/view?usp=sharing)
 
