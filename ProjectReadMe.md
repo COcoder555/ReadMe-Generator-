@@ -28,5 +28,5 @@ You can view this lincese at:
 
 
 
-[Walk Through](./assets/ReadME%20.mp4)
+[Walk Through](https://drive.google.com/file/d/1A6FEabUxTSNQQoyITnMKs5fHrWtLzBro/preview")
 
